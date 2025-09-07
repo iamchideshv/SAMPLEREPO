@@ -8,4 +8,3 @@ Stock prices fluctuate based on supply and demand, company performance, and broa
 # Synopsis: Prices change due to market forces and company results.
 
 Participating in the stock market involves risks, but it can also offer rewards for those who make informed investment decisions.
-# Synopsis: Investing can be risky, but smart choices may lead to gains.
